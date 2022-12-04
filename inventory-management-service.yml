@@ -9,4 +9,4 @@ spring:
     generate-ddl: true
 stock:
   transportType: airoplane
-  noDays: 300
+  noDays: 10
