@@ -8,5 +8,5 @@ spring:
     show-sql: true
     generate-ddl: true
 stock:
-  transportType: ship
-  noDays: 200
+  transportType: flight
+  noDays: 20
