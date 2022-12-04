@@ -9,4 +9,4 @@ spring:
     generate-ddl: true
 stock:
   transportType: flight
-  noDays: 20
+  noDays: 250
